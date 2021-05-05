@@ -41,6 +41,12 @@ Key Pairs Generation:產生金鑰對
 加密: C = 2 ^ 13 mod 33 = 8
 解密: M = 8 ^ 17 mod 33 = 2
 ```
+# lab實戰: Google Colab
+```
+使用 Python 內建函數:pow()函數完成上述範例
+加密: C = = M(明文) ^ e mod n ==> pow(M,e,n)
+解密: M(明文) = C(密文) ^ d mod n ==> pow(C, d,n)
+```
 # 作業
 ```
 https://en.wikipedia.org/wiki/RSA_(cryptosystem)
