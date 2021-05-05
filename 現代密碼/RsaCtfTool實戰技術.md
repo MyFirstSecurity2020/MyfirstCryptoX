@@ -16,3 +16,7 @@ cd RsaCtfTool
 !pip3 install -r "requirements.txt"
 !python3 RsaCtfTool.py
 ```
+# 簡單的測試@Google Colab
+```
+
+```
