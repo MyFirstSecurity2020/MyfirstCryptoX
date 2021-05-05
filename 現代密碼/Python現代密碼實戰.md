@@ -4,7 +4,7 @@
 使用python3
 使用python第三方套件pycrypto進行現代密碼學的基礎加密與解密實作
 使用Googl Colab進行實測
-
+相關密碼學演算法請參閱大學密碼學教科書
 ```
 # 現代密碼學Modern Cryptography
 
