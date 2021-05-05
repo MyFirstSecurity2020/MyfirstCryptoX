@@ -6,8 +6,11 @@
 使用Googl Colab進行實測
 相關密碼學演算法請參閱大學密碼學教科書
 ```
-# 現代密碼學Modern Cryptography
 
+# 現代密碼學Modern Cryptography
+```
+
+```
 ## pycrypto第三方套件
 ```
 https://pypi.org/project/pycrypto/
@@ -24,6 +27,12 @@ pycrypto模組支援的加密方式[僅摘錄部份]
 ```
 PS:本課程目的係針對初學者設計,且上課時數僅數小時,因此以實務操作為主, 
 對於各密碼學演算法請參閱大學密碼學教科書
+```
+### 作業
+```
+使用 PyCryptodome
+https://github.com/Legrandin/pycryptodome
+https://www.pycryptodome.org/en/latest/
 ```
 # pycrypto安裝
 ```
