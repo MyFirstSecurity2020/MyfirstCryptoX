@@ -10,6 +10,9 @@ RsaCtfTool
 ```
 # 在Google Colab安裝RsaCtfTool
 ```
+https://github.com/Ganapati/RsaCtfTool
+```
+```
 !git clone https://github.com/Ganapati/RsaCtfTool.git
 !sudo apt-get install libgmp3-dev libmpc-dev
 cd RsaCtfTool
