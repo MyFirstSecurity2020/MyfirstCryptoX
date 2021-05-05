@@ -1,4 +1,11 @@
 # Python現代密碼實戰 
+```
+本單元
+使用python3
+使用python第三方套件pycrypto進行現代密碼學的基礎加密與解密實作
+使用Googl Colab進行實測
+
+```
 # 現代密碼學Modern Cryptography
 
 ## pycrypto第三方套件
