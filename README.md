@@ -3,6 +3,7 @@
 經典密碼(古典密碼,Classical cipher)
 現代密碼:以難解的數學問題為安全基礎的20世紀密碼學
 量子密碼:以量子力學原理為安全基礎的20/21世紀密碼學[研究所再學]
+後量子密碼:能夠抵擋量子攻擊的現代密碼
 ```
 
 # 經典密碼(古典密碼,Classical cipher)
@@ -53,4 +54,12 @@ https://en.wikipedia.org/wiki/List_of_quantum_key_distribution_protocols
 https://en.wikipedia.org/wiki/Quantum_network
 
 量子攻擊(Quantum hacking)[since 2010]
+```
+# 後量子密碼:Post-quantum cryptography[研究熱門領域]
+```
+後量子密碼學（英語：Post-quantum cryptography，縮寫：PQC），又稱抗量子計算密碼學，是密碼學的一個研究領域，
+專門研究能夠抵抗量子計算機的加密算法，特別是公鑰加密（非對稱加密）算法。
+
+不同於量子密碼學，後量子密碼學使用現有的電子計算機，不依靠量子力學，
+它依靠的是密碼學家認為無法被量子計算機有效解決的計算難題。
 ```
