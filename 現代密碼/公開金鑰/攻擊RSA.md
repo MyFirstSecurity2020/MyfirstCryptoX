@@ -39,13 +39,11 @@ c = 3239215176326729126961058656498334795189139519608425118263322559424516792217
 ## 使用線上網站 http://factordb.com   分解質因數
 
 ![質因數分解](質因數分解.png)
-```
 
-```
 ```
 #!/usr/bin/env python
 from Crypto.Util.number import *
-import gmpy2
+import gmpy
 
 p = 2262150367
 q = 3006300461
@@ -58,7 +56,14 @@ e = 11
 c = 32392151763267291269610586564983347951891395196084251182633225594245167922176424232164117237142038355860036871811244158149537196288428230971760474130300660929743492107190512
 
 phi = (p-1)*(q-1)*(r-1)
-d = int(gmpy2.invert(e, phi))
+d = int(gmpy.invert(e, phi))
 m = pow(c,d,n)
 print(long_to_bytes(m))
+```
+```
+Crypto.Util.number.long_to_bytes 的說明
+Crypto.Util.number.long_to_bytes(n, blocksize=0)
+Convert an integer to a byte string.
+
+https://pycryptodome.readthedocs.io/en/latest/src/util/util.html#module-Crypto.Util.number
 ```
