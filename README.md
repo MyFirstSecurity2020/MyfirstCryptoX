@@ -55,10 +55,13 @@ https://en.wikipedia.org/wiki/Quantum_network
 
 量子攻擊(Quantum hacking)[since 2010]
 ```
-# 後量子密碼:Post-quantum cryptography[研究熱門領域]
+# 後量子密碼:PQC
 ```
-後量子密碼學（英語：Post-quantum cryptography，縮寫：PQC），又稱抗量子計算密碼學，是密碼學的一個研究領域，
-專門研究能夠抵抗量子計算機的加密算法，特別是公鑰加密（非對稱加密）算法。
+後量子密碼:Post-quantum cryptography[研究熱門領域]
+https://en.wikipedia.org/wiki/Post-quantum_cryptography
+
+後量子密碼學（英語：Post-quantum cryptography，縮寫：PQC），又稱抗量子計算密碼學，
+密碼學的一個研究領域，專門研究能夠抵抗量子計算機的加密算法，特別是公鑰加密（非對稱加密）算法。
 
 不同於量子密碼學，後量子密碼學使用現有的電子計算機，不依靠量子力學，
 它依靠的是密碼學家認為無法被量子計算機有效解決的計算難題。
