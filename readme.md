@@ -66,22 +66,21 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 # 2021年7月11日課程YouTube連結[課後將刪除]
 
 |章節|影片|片長|影片連結|
-|---|:-----|:----:|:--------------------------|
-|9|CH9_RSA攻擊|  13:04	https://youtu.be/ETKYHTCMVtQ |
-|9|CH9-2_太難了|   17:53	https://youtu.be/WTGWagdXHgY  |
-|9|CH9-3_費馬因式分解題目  |4:32	https://youtu.be/i07ZRE7up94 |		
-|9|CH9-4_費馬因式分解解題與小技巧|7:40	https://youtu.be/z8vcttNlocw  |
-|9|CH9-5_SmoothPrime講解+解題|17:04	https://youtu.be/J7RS6juWDaM  |
-|9|CH9-6_SmoothPrime修BUG|2:55	https://youtu.be/0LxFPzR8DFc	| 	
-|9|CH9-7_E的問題+Yang2講解|15:01	https://youtu.be/2lNB3-HUliI	|
-|9|CH9-8Common_modulus 講解題目|	5:49	https://youtu.be/njDkkwSdqMY	|	
-|9|CH9-9_Common_modulus 解題|6:49	https://youtu.be/ONnMvFshG24  |		
-|9|CH9-10_CRT+講解題目|	9:51|	https://youtu.be/8rRskGwVdw8	|		
-|9|CH9-11_CRT_解題|	2:37|	https://youtu.be/vyna_Ni0HEE |
-|10	CH10-1_LEA+題目講解	|17:20	https://youtu.be/UtKAhsbLGeM	 |	
-|10	CH10-2_LEA_ATTACK解題|9:39	https://youtu.be/qcvf5aEvMsA |
-|11	|CH11_CUT_PASTE+題目講解|	5:18	https://youtu.be/_pVMbWlh7zc |		
-|11	|CH11-2_CUT_PASTE解題|	7:18	https://youtu.be/9gTbRAEf0Ek |
-|11	|CH11-3_POODLE講解+講題目|	18:12	https://youtu.be/rYqeAlJciqI	 |
-|END_結語38秒|	0:39|	https://youtu.be/o-tq713y4UY
-
+|---|:--------|:----:|:--------------------------|
+|9|CH9_RSA攻擊|13:04|https://youtu.be/ETKYHTCMVtQ |
+|9|CH9-2_太難了|17:53|https://youtu.be/WTGWagdXHgY  |
+|9|CH9-3_費馬因式分解題目|4:32|	https://youtu.be/i07ZRE7up94 |		
+|9|CH9-4_費馬因式分解解題與小技巧|7:40|https://youtu.be/z8vcttNlocw  |
+|9|CH9-5_SmoothPrime講解+解題|17:04|https://youtu.be/J7RS6juWDaM  |
+|9|CH9-6_SmoothPrime修BUG|2:55|https://youtu.be/0LxFPzR8DFc	| 	
+|9|CH9-7_E的問題+Yang2講解|15:01|https://youtu.be/2lNB3-HUliI	|
+|9|CH9-8Common_modulus 講解題目|5:49|https://youtu.be/njDkkwSdqMY	|	
+|9|CH9-9_Common_modulus 解題|6:49|https://youtu.be/ONnMvFshG24  |		
+|9|CH9-10_CRT+講解題目|9:51|https://youtu.be/8rRskGwVdw8	|		
+|9|CH9-11_CRT_解題|2:37|https://youtu.be/vyna_Ni0HEE |
+|10|CH10-1_LEA+題目講解|17:20|https://youtu.be/UtKAhsbLGeM | 
+|10|CH10-2_LEA_ATTACK解題|9:39|https://youtu.be/qcvf5aEvMsA | 
+|11|CH11_CUT_PASTE+題目講解|5:18|https://youtu.be/_pVMbWlh7zc | 
+|11|CH11-2_CUT_PASTE解題|7:18|https://youtu.be/9gTbRAEf0Ek | 
+|11|CH11-3_POODLE講解+講題目|18:12|https://youtu.be/rYqeAlJciqI | 
+|END|結語|0:39|https://youtu.be/o-tq713y4UY |
