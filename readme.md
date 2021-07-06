@@ -54,7 +54,7 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 
 # 講師GITHUB
 ```
-
+https://gist.github.com/eigenein/1275094?fbclid=IwAR1ZKuagnAsZS7gkTGZGlO-Mcv5upDUx7o_h_vO4bM8IlkuZbQJJnwj_r3c
 ```
 
 # 7月10日課程YouTube連結[課後將刪除]
