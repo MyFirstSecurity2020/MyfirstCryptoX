@@ -38,6 +38,10 @@
 # 2021年7月11日課程
 ![0711.jpg](./pic/0711.JPG)
 
+# 課程簡報[課後將刪除連結]
+
+https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎現代密碼學簡報.pdf
+
 # youTube頻道[課後將刪除連結]
 ```
 章節	影片	片長	影片連結
