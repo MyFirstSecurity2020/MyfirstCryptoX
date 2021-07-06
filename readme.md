@@ -52,6 +52,11 @@ http://140.110.112.215/
 
 https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎現代密碼學簡報.pdf
 
+# 講師GITHUB
+```
+
+```
+
 # 2021年7月10日課程YouTube連結[課後將刪除]
 
 |章節|影片|片長|影片連結|
@@ -106,5 +111,6 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 
 # 證書核發
 ```
-
+(1)證書於7月19日後掛號寄出
+(2)問卷調寫：https://forms.gle/PaS7gQd5uwo6q5vg6
 ```
