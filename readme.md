@@ -45,37 +45,22 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 # 2021年7月10日youTube頻道[課後將刪除連結]
 
 |章節|影片|片長|影片連結|
-|  ----  | ----  | ----  | ----  |
 |0|CH0_Introduction|30:38|https://youtu.be/vzMq63t_rfw|
-|  ----  | ----  | ----  | ----  |
 |1|CH1_Classical_Cipher|17:43|https://youtu.be/l2fuWlpfHmU|
-|  ----  | ----  | ----  | ----  |
-|2|CH2_PRNG|15:06|https://youtu.be/soppCtH9liU|
-|  ----  | ----  | ----  | ----  |				
+|2|CH2_PRNG|15:06|https://youtu.be/soppCtH9liU|			
 |2|CH2-2_LCG解題|18:29|https://youtu.be/pkodsDphLWo|
-|  ----  | ----  | ----  | ----  |
-3	CH3_Hash        	 15:23	  https://youtu.be/-fH4vJtKNIg
-```    
-```
-4	CH4_BlockCipher          28:19	   https://youtu.be/5ZMc5aL7RqU
-4	CH4-2_LAB_CBC_講解題目     5:41	https://youtu.be/4-hQ_00sEt0			
-4	CH4-3_LAB_CBC_解題  	12:46	 https://youtu.be/At2DvKHTtP8
-```    
-```
-5	CH5_StreamCipher  	 18:17     https://youtu.be/4jx0od6S2C0		
-5	CH5-2_LAB題目講解         3:53	https://youtu.be/99DECbRH6KQ		
-5	CH5-3_LAB_OWO_解題流程    11:33	https://youtu.be/lmcVBIgrEwk
-```    
-```
-6	CH6_非對稱式              56:53	https://youtu.be/pxP56vHbErA		
-6	CH6-2_非對稱式_解題       13:28     https://youtu.be/kXcRmdlf2SM
-```    
-```
-7	CH7_橢圓曲線   	      38:01	https://youtu.be/KdYoytkCMCM		
-7	CH7-2_橢圓曲線            7:17	https://youtu.be/mWbgkiHluKk	
-```    
-```
-8	CH8-第一天結語           2:25       https://youtu.be/ktSqHtFChfQ
+|3|CH3_Hash|15:23| https://youtu.be/-fH4vJtKNIg|
+|4|CH4_BlockCipher|28:19| https://youtu.be/5ZMc5aL7RqU |
+|4|CH4-2_LAB_CBC_講解題目|5:41|https://youtu.be/4-hQ_00sEt0 |			
+|4|CH4-3_LAB_CBC_解題|12:46|https://youtu.be/At2DvKHTtP8 |
+|5|CH5_StreamCipher|18:17|     https://youtu.be/4jx0od6S2C0	 |	
+|5|CH5-2_LAB題目講解|3:53|	https://youtu.be/99DECbRH6KQ |		
+|5|CH5-3_LAB_OWO_解題流程|11:33|https://youtu.be/lmcVBIgrEwk |
+|6|CH6_非對稱式 | 56:53|	https://youtu.be/pxP56vHbErA	|	
+|6|CH6-2_非對稱式_解題| 13:28 |    https://youtu.be/kXcRmdlf2SM |
+|7|CH7_橢圓曲線| 38:01| https://youtu.be/KdYoytkCMCM |		
+|7|CH7-2_橢圓曲線| 7:17|https://youtu.be/mWbgkiHluKk |
+|8| CH8-第一天結語|  2:25 | https://youtu.be/ktSqHtFChfQ |
 ```   
 
 # 2021年7月11日youTube頻道[課後將刪除連結]
