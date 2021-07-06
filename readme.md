@@ -43,19 +43,17 @@
 https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎現代密碼學簡報.pdf
 
 # 2021年7月10日youTube頻道[課後將刪除連結]
-```
-章節|影片|片長| 影片連結
-0|CH0_Introduction|30:38|https://youtu.be/vzMq63t_rfw
-```    
-```
-1|CH1_Classical_Cipher|17:43|https://youtu.be/l2fuWlpfHmU
-```    
-```
-2|CH2_PRNG|15:06|https://youtu.be/soppCtH9liU
-				
-2|CH2-2_LCG解題|18:29|https://youtu.be/pkodsDphLWo
-```    
-```
+
+|章節|影片|片長|影片連結|
+|  ----  | ----  | ----  | ----  |
+|0|CH0_Introduction|30:38|https://youtu.be/vzMq63t_rfw|
+|  ----  | ----  | ----  | ----  |
+|1|CH1_Classical_Cipher|17:43|https://youtu.be/l2fuWlpfHmU|
+|  ----  | ----  | ----  | ----  |
+|2|CH2_PRNG|15:06|https://youtu.be/soppCtH9liU|
+|  ----  | ----  | ----  | ----  |				
+|2|CH2-2_LCG解題|18:29|https://youtu.be/pkodsDphLWo|
+|  ----  | ----  | ----  | ----  |
 3	CH3_Hash        	 15:23	  https://youtu.be/-fH4vJtKNIg
 ```    
 ```
