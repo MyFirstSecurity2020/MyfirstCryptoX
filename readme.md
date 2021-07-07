@@ -50,6 +50,8 @@ http://140.110.112.215/
 
 # 課程簡報[課後將刪除連結]
 
+# 非經取得講者授權，不得任意轉載或公開傳輸
+
 https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎現代密碼學簡報.pdf
 
 # 講師GITHUB
@@ -58,6 +60,8 @@ https://github.com/maojui/Crypto-CTF-Cheatsheet/tree/master/scripts
 ```
 
 # 7月10日課程YouTube連結[課後將刪除]
+
+# 非經取得講者授權，不得任意轉載或公開傳輸
 
 |章節|影片|片長|影片連結|
 |---|:-----|:----:|:--------------------------|
@@ -79,6 +83,8 @@ https://github.com/maojui/Crypto-CTF-Cheatsheet/tree/master/scripts
 |8| CH8-第一天結語|  2:25 | https://youtu.be/ktSqHtFChfQ |
 
 # 7月11日課程YouTube連結[課後將刪除]
+
+# 非經取得講者授權，不得任意轉載或公開傳輸
 
 |章節|影片|片長|影片連結|
 |---|:--------|:----:|:--------------------------|
