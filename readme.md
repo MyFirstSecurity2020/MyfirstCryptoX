@@ -56,7 +56,7 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 
 # 講師GITHUB
 ```
-https://github.com/maojui/Crypto-CTF-Cheatsheet/tree/master/scripts
+https://github.com/maojui/Cytro
 ```
 
 # 7月10日課程YouTube連結[課後將刪除]
