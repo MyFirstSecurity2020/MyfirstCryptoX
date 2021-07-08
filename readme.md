@@ -120,3 +120,10 @@ https://github.com/maojui/Cytro
 (1)證書於7月19日後掛號寄出
 (2)問卷調寫：https://forms.gle/PaS7gQd5uwo6q5vg6
 ```
+
+# 指定完成題目
+```
+以下題目完成任選14題即可進行證書發放審查。
+
+
+```
