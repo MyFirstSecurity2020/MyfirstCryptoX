@@ -31,10 +31,10 @@
 ✪主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室、崑山科技大學、國立宜蘭大學、國立臺中高工
 ✪聯絡窗口：陳小姐0928-155-602 / E-mail:samtn125@gmail.com或洽FB粉絲頁(高中職生資安研習營)
 ```
-# 7月10日課程表
+# 7月10日(六)課程表
 ![0710.jpg](./pic/0710.JPG)
 
-# 7月11日課程表
+# 7月11日(日)課程表
 ![0711.jpg](./pic/0711.JPG)
 
 # 課程問題提問表單
@@ -59,7 +59,7 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 https://github.com/maojui/Cytro
 ```
 
-# 7月10日課程YouTube連結[課後將刪除]
+# 7月10日(六)課程YouTube連結[課後將刪除]
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
@@ -82,7 +82,7 @@ https://github.com/maojui/Cytro
 |7|CH7-2_橢圓曲線| 7:17|https://youtu.be/mWbgkiHluKk |
 |8| CH8-第一天結語|  2:25 | https://youtu.be/ktSqHtFChfQ |
 
-# 7月11日課程YouTube連結[課後將刪除]
+# 7月11日(日)課程YouTube連結[課後將刪除]
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
@@ -106,10 +106,10 @@ https://github.com/maojui/Cytro
 |11|CH11-3_POODLE講解+講題目|18:12|https://youtu.be/rYqeAlJciqI | 
 |END|結語|0:39|https://youtu.be/o-tq713y4UY |
 
-# 7月11日15:00線上簽到與難題解說與Q&A直播
+# 7月11日(日)15:00線上簽到與難題解說與Q&A直播
 
 ```
-(1)請學員到通話中的訊息留下學校及姓名簽到，謝謝
+(1)請學員到通話中的訊息留下 /學校及姓名/ 簽到，謝謝
 (2)14:50開放進入會議室
 (3)會議連結：https://meet.google.com/twg-ygdu-aor
 
@@ -121,7 +121,7 @@ https://github.com/maojui/Cytro
 (2)問卷調寫：https://forms.gle/PaS7gQd5uwo6q5vg6
 ```
 
-# 指定完成題目
+# 指定題目
 ```
 以下題目完成任選14題即可進行證書發放審查。
 
