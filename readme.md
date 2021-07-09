@@ -125,5 +125,20 @@ https://github.com/maojui/Cytro
 ```
 以下題目完成任選14題即可進行證書發放審查。
 
-
+01. AIS3_Pre_exam_2015-Crypto2
+02. CBC
+03. Chinese Remainder Theorem
+04. ECB
+05. LCG
+06. OWO_Nonsense-Machine
+07. OWO_Apple Shop
+08. Padding Oracle
+09. RSA 後門 (1)
+10. Simplest_ECC
+11. Smooth_Prime
+12. YANG_RSA-1
+13. YANG_RSA-2
+14. YANG_RSA_4
+15. common_factor_attack_rsa
+16. RSA Factorization
 ```
