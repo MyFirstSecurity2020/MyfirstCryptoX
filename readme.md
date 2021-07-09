@@ -18,9 +18,8 @@
 先備知識：需了解 Python 程式的基本語法
 
 事先需安裝之軟體：
-[1]Sagemath下載網址 https://www.sagemath.org/download.html
-            
-[2]pwntools下載網址 https://github.com/Gallopsled/pwntools
+(1)Sagemath下載網址 https://www.sagemath.org/download.html           
+(2)pwntools下載網址 https://github.com/Gallopsled/pwntools
 
 學員證書發放說明：
 (1)學員需完成指定題目達14題以上。
