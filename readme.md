@@ -49,6 +49,13 @@ Q:crypto下載下來是小寫改大寫也可以
 A:不建議裝 Crypto 他是舊的，就以前有問題所以後來改成 pycryptodome
 不過會動的話可以先用一下 www
 ```
+```
+Q:請問pwnlib那個也是要下載套件嗎
+A:不用喔～ pwntools 就好～
+```
+```
+講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 這樣 import pwn 的時候，python 在 parsing 的時候發現有 pwn.py 他就會直接吃進去了，就不會去用 library 的 pwntools，要注意一下喔。
+```
 
 # 講師FB
 ```
