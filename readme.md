@@ -9,8 +9,14 @@ A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦應該
 Q：pip 是3.8 python是3.8.8 會有差嗎，是說我python3 --version沒東西，用python才有顯示版本
 A：你是 Unix 類的話 你下 where python, where pip 確定他們是不是在同一包的好了
 你是 pwntools 和 Crypto 安裝了，但是都找不到嗎？
-就 pip install pycryptodome pwntools 後，開 python，from pwn import * 或是 from Crypto.Util.number import getPrime 兩個 module 都沒找到？
-還是說可以找到某個？
+就 pip install pycryptodome pwntools 後，開 python，from pwn import * 或是 from Crypto.Util.number import getPrime 兩個 module 都沒找到？還是說可以找到某個？
+Q：我發現我有兩個python欸，一個anaconda3一個Microsoft
+A：anaconda 會幫你裝 pycryptodome 沒錯
+所以你可能 python3 是 anaconda, pip 是 Microsoft (X
+我覺得你可以先把他幹掉
+pip uninstall pycryptodome
+pip install -U pip
+pip install pycryptodome
 ```
 ```
 Q:打得開終端機，但沒辦法跑python程式
@@ -32,6 +38,11 @@ Q:我們要怎麼吧VSCODE的終端機裝的跟你一樣是可以跑linux的指�
 A:如果你用 windows 可以裝 powershell 看看 如果是 Unix 系列，一打開就可以用了 你要連到 linux 主機也可以，有個套件叫 Remote-SSH 你可以直接遠端工作https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh 推薦你
 
 ```
+```
+Q:我一直弄不好gmpy2
+A:別載 gmpy2 了，有 pycryptodome 就好了
+或是 有 Sage 就好了
+
 # 線上聊天室
 ```
 講師在線上聊天室有任何問題可以馬上提出
