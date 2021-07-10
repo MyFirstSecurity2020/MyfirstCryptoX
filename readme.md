@@ -14,6 +14,7 @@ Q：我發現我有兩個python欸，一個anaconda3一個Microsoft
 A：anaconda 會幫你裝 pycryptodome 沒錯
 所以你可能 python3 是 anaconda, pip 是 Microsoft (X
 我覺得你可以先把他幹掉
+我是指到 anaconda 的資料夾做下面三行指令 再執行 Crypto 應該就正常了
 pip uninstall pycryptodome
 pip install -U pip
 pip install pycryptodome
