@@ -15,7 +15,11 @@ A:影片會放到明天課程結束。
 但是基本的腳本或數學運算都沒問題（Ｏ
 ```
 ```
-講師：sagemath 其實就是 ipython 類似一個 python shell 的東西
+Q:對於安裝的sageMath有一些疑問:
+請問點擊此應用程式後，進入類似命令提示字元的視窗是正常的嗎?
+上網查詢也沒有結果能夠解答...
+改成使用spyder和visual studio也不太理想...
+A：正常的，sagemath 其實就是 ipython 類似一個 python shell 的東西
 你可以直接 一行一行的執行你要跑的指令
 用起來蠻方便的
 ```
