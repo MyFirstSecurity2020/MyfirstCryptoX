@@ -4,10 +4,15 @@ Q:請問幾點的時候今天的影片會刪除?
 A:影片會放到明天課程結束。
 ```
 ```
-講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 這樣 import pwn 的時候，python 在 parsing 的時候發現有 pwn.py 他就會直接吃進去了，就不會去用 library 的 pwntools，要注意一下喔。
+講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 
+這樣 import pwn 的時候，python 在 parsing 的時候發現有 pwn.py 他就會直接吃進去了，
+就不會去用 library 的 pwntools，要注意一下喔。
 ```
 ```
-講師：想要跑一些簡單的腳本也可以 "sage --python3 test.py" 來執行 python 檔，不過因為 sage 裡面有自己的 python 所以 pip 安裝的套件，他可能不能用需要額外安裝，如果遇到 TLS/SSL 加密的問題會有點小麻煩，但是基本的腳本或數學運算都沒問題（Ｏ
+講師：想要跑一些簡單的腳本也可以 "sage --python3 test.py" 來執行 python 檔，
+不過因為 sage 裡面有自己的 python 所以 pip 安裝的套件，
+他可能不能用需要額外安裝，如果遇到 TLS/SSL 加密的問題會有點小麻煩，
+但是基本的腳本或數學運算都沒問題（Ｏ
 ```
 ```
 講師：sagemath 其實就是 ipython 類似一個 python shell 的東西
@@ -20,11 +25,16 @@ A:可能要確認一下 pip 在安裝 pwntools 的版本 跟python 版本 是不
 我在想是不是你的 pip 是裝給 3.8 然後你的 python 是 3.9 之類的
 python 版本很多 ，常常有這種問題
 Q:python是3.8.8 pwntools 是4.51
-A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦應該沒有太大的差異，你下 pip --version 看一下最後面是 python 幾，再下 python3 --version 看他們有沒有對應到
-Q：pip 是3.8 python是3.8.8 會有差嗎，是說我python3 --version沒東西，用python才有顯示版本
+A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦
+應該沒有太大的差異，你下 pip --version 看一下最後面是 python 幾，
+再下 python3 --version 看他們有沒有對應到
+Q：pip 是3.8 python是3.8.8 會有差嗎，是說我python3 --version沒東西，
+用python才有顯示版本
 A：你是 Unix 類的話 你下 where python, where pip 確定他們是不是在同一包的好了
 你是 pwntools 和 Crypto 安裝了，但是都找不到嗎？
-就 pip install pycryptodome pwntools 後，開 python，from pwn import * 或是 from Crypto.Util.number import getPrime 兩個 module 都沒找到？還是說可以找到某個？
+就 pip install pycryptodome pwntools 後，開 python，from pwn import * 
+或是 from Crypto.Util.number import getPrime 兩個 module 都沒找到？
+還是說可以找到某個？
 Q：我發現我有兩個python欸，一個anaconda3一個Microsoft
 A：anaconda 會幫你裝 pycryptodome 沒錯
 所以你可能 python3 是 anaconda, pip 是 Microsoft (X
@@ -36,7 +46,8 @@ pip install pycryptodome
 ```
 ```
 Q:打得開終端機，但沒辦法跑python程式
-A:打開終端機沒辦法跑 python : 你可以去左下角的 環境變數 確認一下 你的 python 有沒有被系統讀取到
+A:打開終端機沒辦法跑 python : 你可以去左下角的 環境變數 
+確認一下 你的 python 有沒有被系統讀取到
 如果是 windows 的話，他可能會吃到 Microsoft Store
 把你剛剛安裝的 C:\User\AppData\Program......\Python\Script 移到最上面 再試一次
 如果還沒安裝的話可以去官方網站下載 python
@@ -45,10 +56,13 @@ A:打開終端機沒辦法跑 python : 你可以去左下角的 環境變數 確
 Q:請問getprime 模組在哪下載
 A:getPrime 在 pycryptodome pip install pycryptodome 就有囉 或是 pip3 install pycryptodome 看你的 pip 是啥
 ```
-
 ```
-Q:我們要怎麼吧VSCODE的終端機裝的跟你一樣是可以跑linux的指令的?是用SSH連接到linux主機嗎?還是有其他神奇的方法?(´･ω･`)?
-A:如果你用 windows 可以裝 powershell 看看 如果是 Unix 系列，一打開就可以用了 你要連到 linux 主機也可以，有個套件叫 Remote-SSH 你可以直接遠端工作https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh 推薦你
+Q:我們要怎麼吧VSCODE的終端機裝的跟你一樣是可以跑linux的指令的?
+是用SSH連接到linux主機嗎?還是有其他神奇的方法?(´･ω･`)?
+A:如果你用 windows 可以裝 powershell 看看 如果是 Unix 系列，一打開就可以用了 
+你要連到 linux 主機也可以，有個套件叫 Remote-SSH 
+你可以直接遠端工作https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh 
+推薦你
 
 ```
 ```
@@ -63,6 +77,12 @@ A:不建議裝 Crypto 他是舊的，就以前有問題所以後來改成 pycryp
 ```
 Q:請問pwnlib那個也是要下載套件嗎
 A:不用喔～ pwntools 就好～
+```
+```
+Q:請問在CH4-3 我執行nc 120.114.62.206後 他跑出invalid syntax 是為什麼
+A:喔我在錄的時候的 IP 跟你們現在解題的 IP 位置不一樣
+現在這題的 IP 是 140.110.112.215
+要改成 nc 140.110.112.215 4120
 ```
 
 
