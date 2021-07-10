@@ -1,4 +1,32 @@
+# Q&A整理
+```
+Q:為甚麼 pip list裡有顯示安裝到了pwntools，但顯示No module named 'pwn'
+A:可能要確認一下 pip 在安裝 pwntools 的版本 跟python 版本 是不是一樣的
+我在想是不是你的 pip 是裝給 3.8 然後你的 python 是 3.9 之類的
+python 版本很多 ，常常有這種問題
+Q:python是3.8.8 pwntools 是4.51
+A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦應該沒有太大的差異
+```
+```
+Q:打得開終端機，但沒辦法跑python程式
+A:打開終端機沒辦法跑 python : 你可以去左下角的 環境變數 確認一下 你的 python 有沒有被系統讀取到
+如果是 windows 的話，他可能會吃到 Microsoft Store
+把你剛剛安裝的 C:\User\AppData\Program......\Python\Script 移到最上面 再試一次
+如果還沒安裝的話可以去官方網站下載 python
+```
+```
+Q:請問getprime 模組在哪下載
+A:getPrime 在 pycryptodome pip install pycryptodome 就有囉 或是 pip3 install pycryptodome 看你的 pip 是啥
+```
+```
+Q:請問幾點的時候今天的影片會刪除? 
+A:影片會放到明天課程結束。
+```
+```
+Q:我們要怎麼吧VSCODE的終端機裝的跟你一樣是可以跑linux的指令的?是用SSH連接到linux主機嗎?還是有其他神奇的方法?(´･ω･`)?
+A:如果你用 windows 可以裝 powershell 看看 如果是 Unix 系列，一打開就可以用了 你要連到 linux 主機也可以，有個套件叫 Remote-SSH 你可以直接遠端工作https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh 推薦你
 
+```
 # 線上聊天室
 ```
 講師在線上聊天室有任何問題可以馬上提出
