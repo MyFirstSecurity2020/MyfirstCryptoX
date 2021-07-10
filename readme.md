@@ -7,6 +7,9 @@ A:影片會放到明天課程結束。
 講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 這樣 import pwn 的時候，python 在 parsing 的時候發現有 pwn.py 他就會直接吃進去了，就不會去用 library 的 pwntools，要注意一下喔。
 ```
 ```
+講師：想要跑一些簡單的腳本也可以 "sage --python3 test.py" 來執行 python 檔，不過因為 sage 裡面有自己的 python 所以 pip 安裝的套件，他可能不能用需要額外安裝，如果遇到 TLS/SSL 加密的問題會有點小麻煩，但是基本的腳本或數學運算都沒問題（Ｏ
+```
+```
 講師：sagemath 其實就是 ipython 類似一個 python shell 的東西
 你可以直接 一行一行的執行你要跑的指令
 用起來蠻方便的
