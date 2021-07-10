@@ -54,14 +54,16 @@ A:打開終端機沒辦法跑 python : 你可以去左下角的 環境變數
 ```
 ```
 Q:請問getprime 模組在哪下載
-A:getPrime 在 pycryptodome pip install pycryptodome 就有囉 或是 pip3 install pycryptodome 看你的 pip 是啥
+A:getPrime 在 pycryptodome pip install pycryptodome 就有囉
+或是 pip3 install pycryptodome 看你的 pip 是啥
 ```
 ```
 Q:我們要怎麼吧VSCODE的終端機裝的跟你一樣是可以跑linux的指令的?
 是用SSH連接到linux主機嗎?還是有其他神奇的方法?(´･ω･`)?
 A:如果你用 windows 可以裝 powershell 看看 如果是 Unix 系列，一打開就可以用了 
 你要連到 linux 主機也可以，有個套件叫 Remote-SSH 
-你可以直接遠端工作https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh 
+你可以直接遠端工作
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh 
 推薦你
 
 ```
@@ -89,6 +91,12 @@ Q:我的問題是 nc : 無法辨識 'nc' 詞彙是否為 Cmdlet、函數、指�
 A:關於 nc 無法辨識，你是不是Windows 的，他全名是 netcat 
 因為 Unix 基本上會預設這個指令 windows 沒有，你可能要額外安裝，
 找一下 netcat for windows
+Q:我用pip install netcat 再將nc便netcat 她打開了netcat.py
+A:其實 nc 120.114.62.206 PORT 就是
+from pwn import *
+conn = remote('120.114.62.206', PORT)
+conn.interactive()
+可以先跑這三行 應急一下
 ```
 
 # 講師FB
