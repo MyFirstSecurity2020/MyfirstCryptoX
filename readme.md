@@ -89,7 +89,6 @@ Q:我的問題是 nc : 無法辨識 'nc' 詞彙是否為 Cmdlet、函數、指�
 A:關於 nc 無法辨識，你是不是Windows 的，他全名是 netcat 
 因為 Unix 基本上會預設這個指令 windows 沒有，你可能要額外安裝，
 找一下 netcat for windows
-看起來這個網站感覺蠻可靠的https://www.programmersought.com/article/22186354961/
 ```
 
 # 講師FB
