@@ -102,6 +102,10 @@ conn = remote('120.114.62.206', PORT)
 conn.interactive()
 可以先跑這三行 應急一下
 NAMP 裡面有包含 NCAT 可行: https://nmap.org/download.html
+Latest stable release self-installer: nmap-7.91-setup.exe
+載點: https://nmap.org/dist/nmap-7.91-setup.exe
+安裝完之後 把它安裝完的路徑 塞到環境變數
+之後就可以在 terminal 直接 ncat 140.110.112.215 4120 做連線
 ```
 
 # 講師FB
