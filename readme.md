@@ -4,6 +4,14 @@ Q:請問幾點的時候今天的影片會刪除?
 A:影片會放到明天課程結束。
 ```
 ```
+講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 這樣 import pwn 的時候，python 在 parsing 的時候發現有 pwn.py 他就會直接吃進去了，就不會去用 library 的 pwntools，要注意一下喔。
+```
+```
+講師：sagemath 其實就是 ipython 類似一個 python shell 的東西
+你可以直接 一行一行的執行你要跑的指令
+用起來蠻方便的
+```
+```
 Q:為甚麼 pip list裡有顯示安裝到了pwntools，但顯示No module named 'pwn'
 A:可能要確認一下 pip 在安裝 pwntools 的版本 跟python 版本 是不是一樣的
 我在想是不是你的 pip 是裝給 3.8 然後你的 python 是 3.9 之類的
@@ -53,9 +61,7 @@ A:不建議裝 Crypto 他是舊的，就以前有問題所以後來改成 pycryp
 Q:請問pwnlib那個也是要下載套件嗎
 A:不用喔～ pwntools 就好～
 ```
-```
-講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 這樣 import pwn 的時候，python 在 parsing 的時候發現有 pwn.py 他就會直接吃進去了，就不會去用 library 的 pwntools，要注意一下喔。
-```
+
 
 # 講師FB
 ```
