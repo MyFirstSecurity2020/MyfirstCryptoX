@@ -5,7 +5,7 @@ A:可能要確認一下 pip 在安裝 pwntools 的版本 跟python 版本 是不
 我在想是不是你的 pip 是裝給 3.8 然後你的 python 是 3.9 之類的
 python 版本很多 ，常常有這種問題
 Q:python是3.8.8 pwntools 是4.51
-A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦應該沒有太大的差異
+A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦應該沒有太大的差異，你下 pip --version 看一下最後面是 python 幾，再下 python3 --version 看他們有沒有對應到
 ```
 ```
 Q:打得開終端機，但沒辦法跑python程式
