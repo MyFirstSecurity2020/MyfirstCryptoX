@@ -41,8 +41,13 @@ A:如果你用 windows 可以裝 powershell 看看 如果是 Unix 系列，一�
 ```
 ```
 Q:我一直弄不好gmpy2
-A:別載 gmpy2 了，有 pycryptodome 就好了
-或是 有 Sage 就好了
+A:別載 gmpy2 了，有 pycryptodome 就好了或是 有 Sage 就好了
+```
+```
+Q:crypto下載下來是小寫改大寫也可以
+A:不建議裝 Crypto 他是舊的，就以前有問題所以後來改成 pycryptodome
+不過會動的話可以先用一下 www
+```
 
 # 線上聊天室
 ```
