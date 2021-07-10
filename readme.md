@@ -101,6 +101,7 @@ from pwn import *
 conn = remote('120.114.62.206', PORT)
 conn.interactive()
 可以先跑這三行 應急一下
+NAMP 裡面有包含 NCAT 可行: https://nmap.org/download.html
 ```
 
 # 講師FB
