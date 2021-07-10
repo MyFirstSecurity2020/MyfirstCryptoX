@@ -8,6 +8,9 @@ Q:python是3.8.8 pwntools 是4.51
 A:直接跑 pip install pwntools 看他裝了幾吧 我這邊是 4.3.1 啦應該沒有太大的差異，你下 pip --version 看一下最後面是 python 幾，再下 python3 --version 看他們有沒有對應到
 Q：pip 是3.8 python是3.8.8 會有差嗎，是說我python3 --version沒東西，用python才有顯示版本
 A：你是 Unix 類的話 你下 where python, where pip 確定他們是不是在同一包的好了
+你是 pwntools 和 Crypto 安裝了，但是都找不到嗎？
+就 pip install pycryptodome pwntools 後，開 python，from pwn import * 或是 from Crypto.Util.number import getPrime 兩個 module 都沒找到？
+還是說可以找到某個？
 ```
 ```
 Q:打得開終端機，但沒辦法跑python程式
