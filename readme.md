@@ -243,7 +243,7 @@ https://github.com/maojui/Cytro
 
 # 指定題目
 ```
-(1)任選14題題目完成即可進行證書發放審查。
+(1)(更新)任選13題題目完成即可進行證書發放審查。
 (2)解題截止時間：7/12(一) 13:00(延長至7/14星期三17:00)
 
 01. AIS3_Pre_exam_2015-Crypto2
@@ -262,4 +262,5 @@ https://github.com/maojui/Cytro
 14. YANG_RSA_4
 15. common_factor_attack_rsa
 16. RSA Factorization
+17. DSA (直播解題)
 ```
