@@ -168,7 +168,7 @@ https://forms.gle/Ju9uq5Bh21BUcbrG6
 平台連結http://140.110.112.215/
 ```
 
-# 課程簡報[課後將刪除連結]
+# 課程簡報[7/13 17:00將刪除連結]
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
@@ -179,7 +179,7 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 https://github.com/maojui/Cytro
 ```
 
-# 7月10日(六)課程YouTube連結[課後將刪除]
+# 7月10日(六)課程YouTube連結[7/13 17:00將刪除]
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
@@ -202,7 +202,7 @@ https://github.com/maojui/Cytro
 |7|CH7-2_橢圓曲線| 7:17|https://youtu.be/mWbgkiHluKk |
 |8| CH8-第一天結語|  2:25 | https://youtu.be/ktSqHtFChfQ |
 
-# 7月11日(日)課程YouTube連結[課後將刪除]
+# 7月11日(日)課程YouTube連結[7/13 17:00將刪除]
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
@@ -244,7 +244,7 @@ https://github.com/maojui/Cytro
 # 指定題目
 ```
 (1)任選14題題目完成即可進行證書發放審查。
-(2)解題截止時間：7/12(一) 13:00
+(2)解題截止時間：7/12(一) 13:00(延長至7/14星期三17:00)
 
 01. AIS3_Pre_exam_2015-Crypto2
 02. CBC
