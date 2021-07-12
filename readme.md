@@ -1,7 +1,7 @@
 # Q&A整理
 ```
 Q:請問幾點的時候今天的影片會刪除? 
-A:影片會放到明天課程結束。
+A:影片會延後至7/13 17:00移除
 ```
 ```
 講師：剛剛有幾個學員把檔案名稱為 pwn.py 的東西放在要執行的腳本旁邊。 
@@ -176,7 +176,11 @@ https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎�
 
 # 講師GITHUB
 ```
-https://github.com/maojui/Cytro
+https://www.youtube.com/watch?v=dU00xYH3i3E
+```
+# 環境安裝影片
+```
+https://www.youtube.com/watch?v=dU00xYH3i3E
 ```
 
 # 7月10日(六)課程YouTube連結[7/13 17:00將刪除]
