@@ -172,7 +172,6 @@ https://forms.gle/Ju9uq5Bh21BUcbrG6
 
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
-https://github.com/MyFirstSecurity2020/MyfirstCryptoX/blob/main/20210710基礎現代密碼學簡報.pdf
 
 # 講師GITHUB
 ```
