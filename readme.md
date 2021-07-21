@@ -125,11 +125,6 @@ Latest stable release self-installer: nmap-7.91-setup.exe
 之後就可以在 terminal 直接 ncat 140.110.112.215 4120 做連線
 ```
 
-# 講師FB
-```
-可私訊問問題
-https://www.facebook.com/maojui.me/
-```
 # 線上聊天室
 ```
 講師在線上聊天室有任何問題可以馬上提出
@@ -196,7 +191,7 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 ```
 # 環境安裝影片
 ```
-https://www.youtube.com/watch?v=dU00xYH3i3E
+https://youtu.be/uDcld2TwTFo
 ```
 
 # 7月10日(六)課程YouTube連結[7/13 17:00將刪除]
@@ -205,22 +200,22 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 
 |章節|影片|片長|影片連結|
 |---|:-----|:----:|:--------------------------|
-|0|CH0_Introduction|30:38|https://youtu.be/vzMq63t_rfw |
-|1|CH1_Classical_Cipher|17:43|https://youtu.be/l2fuWlpfHmU |
-|2|CH2_PRNG|15:06|https://youtu.be/soppCtH9liU |		
-|2|CH2-2_LCG解題|18:29|https://youtu.be/pkodsDphLWo |
-|3|CH3_Hash|15:23| https://youtu.be/-fH4vJtKNIg  |
-|4|CH4_BlockCipher|28:19| https://youtu.be/5ZMc5aL7RqU |
-|4|CH4-2_LAB_CBC_講解題目|5:41|https://youtu.be/4-hQ_00sEt0 |			
-|4|CH4-3_LAB_CBC_解題|12:46|https://youtu.be/At2DvKHTtP8 |
-|5|CH5_StreamCipher|18:17|     https://youtu.be/4jx0od6S2C0	 |	
-|5|CH5-2_LAB題目講解|3:53|	https://youtu.be/99DECbRH6KQ |		
-|5|CH5-3_LAB_OWO_解題流程|11:33|https://youtu.be/lmcVBIgrEwk |
-|6|CH6_非對稱式 | 56:53|	https://youtu.be/pxP56vHbErA	|	
-|6|CH6-2_非對稱式_解題| 13:28 |    https://youtu.be/kXcRmdlf2SM |
-|7|CH7_橢圓曲線| 38:01| https://youtu.be/KdYoytkCMCM |		
-|7|CH7-2_橢圓曲線| 7:17|https://youtu.be/mWbgkiHluKk |
-|8| CH8-第一天結語|  2:25 | https://youtu.be/ktSqHtFChfQ |
+|0|CH0_Introduction|30:38|https://youtu.be/pyMNBDuDJMM |
+|1|CH1_Classical_Cipher|17:43|https://youtu.be/ykfwIWxB3Y4|
+|2|CH2_PRNG|15:06|https://youtu.be/r_MPQVFSr08 |		
+|2|CH2-2_LCG解題|18:29|https://youtu.be/gUYItO35l0k |
+|3|CH3_Hash|15:23|https://youtu.be/n78-aG9lXzo  |
+|4|CH4_BlockCipher|28:19| https://youtu.be/WAxoWwf2k4M |
+|4|CH4-2_LAB_CBC_講解題目|5:41|https://youtu.be/GmksFQwl7Wg|			
+|4|CH4-3_LAB_CBC_解題|12:46|https://youtu.be/7RDKk5Ry6vI |
+|5|CH5_StreamCipher|18:17|     https://youtu.be/d-fnsAYGQFY 	 |	
+|5|CH5-2_LAB題目講解|3:53|	https://youtu.be/FbXI7KmKib8  |		
+|5|CH5-3_LAB_OWO_解題流程|11:33|https://youtu.be/NVOJICD3mtc  |
+|6|CH6_非對稱式 | 56:53|	https://youtu.be/LtrnPj7bPaE 	|	
+|6|CH6-2_非對稱式_解題| 13:28 |   https://youtu.be/ti2RKP3gf6o  |
+|7|CH7_橢圓曲線| 38:01| https://youtu.be/6SN1FjYt7kg  |		
+|7|CH7-2_橢圓曲線| 7:17|https://youtu.be/gfhckN_Te9g  |
+|8| CH8-第一天結語|  2:25 | https://youtu.be/VJizItDC_tg  |
 
 # 7月11日(日)課程YouTube連結[7/13 17:00將刪除]
 
@@ -228,23 +223,23 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 
 |章節|影片|片長|影片連結|
 |---|:--------|:----:|:--------------------------|
-|9|CH9_RSA攻擊|13:04|https://youtu.be/ETKYHTCMVtQ |
-|9|CH9-2_太難了|17:53|https://youtu.be/WTGWagdXHgY  |
-|9|CH9-3_費馬因式分解題目|4:32|	https://youtu.be/i07ZRE7up94 |		
-|9|CH9-4_費馬因式分解解題與小技巧|7:40|https://youtu.be/z8vcttNlocw  |
-|9|CH9-5_SmoothPrime講解+解題|17:04|https://youtu.be/J7RS6juWDaM  |
-|9|CH9-6_SmoothPrime修BUG|2:55|https://youtu.be/0LxFPzR8DFc	| 	
-|9|CH9-7_E的問題+Yang2講解|15:01|https://youtu.be/2lNB3-HUliI	|
-|9|CH9-8Common_modulus 講解題目|5:49|https://youtu.be/njDkkwSdqMY	|	
-|9|CH9-9_Common_modulus 解題|6:49|https://youtu.be/ONnMvFshG24  |		
-|9|CH9-10_CRT+講解題目|9:51|https://youtu.be/8rRskGwVdw8	|		
-|9|CH9-11_CRT_解題|2:37|https://youtu.be/vyna_Ni0HEE |
-|10|CH10-1_LEA+題目講解|17:20|https://youtu.be/UtKAhsbLGeM | 
-|10|CH10-2_LEA_ATTACK解題|9:39|https://youtu.be/qcvf5aEvMsA | 
-|11|CH11_CUT_PASTE+題目講解|5:18|https://youtu.be/_pVMbWlh7zc | 
-|11|CH11-2_CUT_PASTE解題|7:18|https://youtu.be/9gTbRAEf0Ek | 
-|11|CH11-3_POODLE講解+講題目|18:12|https://youtu.be/rYqeAlJciqI | 
-|END|結語|0:39|https://youtu.be/o-tq713y4UY |
+|9|CH9_RSA攻擊|13:04|https://youtu.be/kxu3eYA2fO8  |
+|9|CH9-2_太難了|17:53|https://youtu.be/Zre0xp4VPb0  |
+|9|CH9-3_費馬因式分解題目|4:32|	https://youtu.be/60Utm-atWGY |		
+|9|CH9-4_費馬因式分解解題與小技巧|7:40|https://youtu.be/I5sx-wE6X6M  |
+|9|CH9-5_SmoothPrime講解+解題|17:04| https://youtu.be/5fyinS2FQdk  |
+|9|CH9-6_SmoothPrime修BUG|2:55|https://youtu.be/Q4iRR1lUmgQ 	| 	
+|9|CH9-7_E的問題+Yang2講解|15:01|https://youtu.be/90PL0ZOCBTo 	|
+|9|CH9-8Common_modulus 講解題目|5:49|https://youtu.be/VWc4KoDeef0 	|	
+|9|CH9-9_Common_modulus 解題|6:49| https://youtu.be/EHnQ1SOPM-A  |		
+|9|CH9-10_CRT+講解題目|9:51|https://youtu.be/FhjL8ge2LSU 	|		
+|9|CH9-11_CRT_解題|2:37| https://youtu.be/IyOoumSEc7M  |
+|10|CH10-1_LEA+題目講解|17:20|https://youtu.be/98ooRXyZ7x8  | 
+|10|CH10-2_LEA_ATTACK解題|9:39|https://youtu.be/vb8-oDN_f_o  | 
+|11|CH11_CUT_PASTE+題目講解|5:18|https://youtu.be/AQrxqL7urlI  | 
+|11|CH11-2_CUT_PASTE解題|7:18|https://youtu.be/fR29kuvUtpg  | 
+|11|CH11-3_POODLE講解+講題目|18:12|https://youtu.be/wrErsgU75uE  | 
+|END|結語|0:39|https://youtu.be/Szbr_tMokx0  |
 
 # 7月11日(日)15:00線上簽到與難題解說與Q&A直播
 
